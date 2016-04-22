@@ -1,0 +1,308 @@
+diff -r 52b39a865d00 source/src/main.c
+--- a/source/src/main.c	Thu Sep 08 16:01:02 2011 +0800
++++ b/source/src/main.c	Fri Sep 09 12:46:42 2011 +0800
+@@ -88,7 +88,9 @@
+ static char *cmd_preparse(char *buf);
+ static char *inbuf_preparse(char *buf);
+ static char *getcmd(char *buf, char **prdlinecmd, const char *);
+-static int add_completion(const char *prefex, char *all_possible);
++static int add_completion(char *prefex, char *all_possible);
++static int add_comp_multi(const char *prefix, char *all_possible);
++static int add_comp_single(char *prefix, char *all_possible, char **completed);
+ static int do_add_comp(const char *word);
+ static int ps_appear(const char *ps, const char *p);
+ static void clear_inbuf(void);
+@@ -108,7 +110,7 @@
+ static int  myrm(const char *name);
+ 
+ static int  my_init_readline(char *name);
+-void my_close_readline(char *name);
++static void my_close_readline(char *name);
+ static void myrl_noredisplay(void) {};  //for readline, don't re-display inputs
+ 
+ #ifdef DEBUG
+@@ -203,7 +205,7 @@
+     exit(ret);
+ }
+ 
+-void my_close_readline(char *rl_name)
++static void my_close_readline(char *rl_name)
+ {
+     myrm(rl_name);
+     FILE *tmpfp;
+@@ -337,12 +339,11 @@
+ 
+                 //add_completion if last_inbuf is 'tab'
+                 buf = last_ttyio(inbuf, last_inlen);
+-here
+                 dbg("\n\n-inbuf-\n%s\n-lastin(%d)-\n%s\n-outbuf-\n%s\n\n", inbuf, last_inlen, buf, outbuf);
+                 if (is_last_tab(buf) == 0) {
+-here
+                     str_rm_char(outbuf, CHR_BELL);    
+                     add_completion(inbuf, outbuf);
++                    dbg("**inbuf-updated:%s\n", inbuf);
+                 }
+ 
+                 myfree((void *)&buf);
+@@ -482,21 +483,19 @@
+     return -1;
+ }
+ 
+-static int add_completion(const char *prefix, char *all_possible)
++static int add_completion(char *prefix, char *all_possible)
+ {
+     char *p = NULL;
+     char *buf = NULL;
+-    char *tmp_pre = NULL;
+-    char *parsed_prefix = NULL;
+     char *endp = NULL;
+-    int len = 0;
+-    int pre_len = 0;
++    #define MULTI_COMP 0
++    #define SINGL_COMP 1
++    int compl_mode = SINGL_COMP;
++    int ret = -1;
+ 
+-    if (prefix != NULL) {
+-        pre_len = strlen(prefix);
+-    }
++    dbg("add_completion\nprefix:(%s)\nall_possible:\n--\n%s\n--\n", prefix, all_possible)
+ 
+-    //pre-process all_possible
++    //pre-process 'all_possible'
+     if ((all_possible == NULL) ||
+             ((strlen(all_possible) == 1) && all_possible[0] == CHR_BELL))
+     {
+@@ -509,6 +508,7 @@
+     {
+         if (ps_appear(PS, endp+1) == 0) {
+             endp[0] = '\0';
++            compl_mode = MULTI_COMP;
+             break;
+         }
+ 
+@@ -517,6 +517,78 @@
+         endp = NULL;
+     }
+ 
++    char *completed = NULL;
++    size_t len_compl = 0;
++
++    switch(compl_mode) {
++        case MULTI_COMP:
++            ret = add_comp_multi(prefix, all_possible);
++            str_rm_char(inbuf, CHR_TAB);
++            break;
++
++        case SINGL_COMP:
++            ret = add_comp_single(prefix, all_possible, &completed);
++
++            //update inbuf -- single-match
++            clear_inbuf();
++            len_compl = strlen(completed);
++            if (len_compl < IN_BFMAX) {
++                strncpy(inbuf, completed, len_compl);
++                inlen = len_compl + 1;
++                last_inlen = 0;
++            }
++           
++            free(completed);
++            completed = NULL; 
++            break;
++
++        default:
++            return -1;
++    }
++
++    return ret;
++}
++
++char *rpl_strdup(const char *word)
++{
++    size_t len = 0;
++    char *ret = NULL;
++
++    if (word == NULL) {
++        return NULL;
++    }
++
++    len = strlen(word);
++    if ((ret = malloc(len+1)) == NULL) {
++        fprintf(stderr, "malloc failed.(func: %s, line: %d)\n",
++            __FUNCTION__, (int)__LINE__);
++        return NULL;
++    }
++    strncpy(ret, word, len);
++    ret[len] = '\0';
++
++    return ret;
++}
++
++static int add_comp_single(char *prefix, char *all_possible, char **completed)
++{
++    int len = 0;
++    int ret = -1;
++    int pre_len = 0;
++
++    char *p = NULL;
++    char *buf = NULL;
++    char *endp = NULL;
++    char *tmp_pre = NULL;
++    char *parsed_prefix = NULL;
++
++    dbg("%s\nprefix:(%s)\nall_possible:\n--\n%s\n--\n", 
++        __FUNCTION__, prefix, all_possible);
++
++    if (prefix != NULL) {
++        pre_len = strlen(prefix);
++    }
++
+     //prefix -> tmp_pre
+     if ((tmp_pre = malloc(pre_len+2)) == NULL) { 
+         fprintf(stderr, "func(%s), line(%d): malloc failed.\n",
+@@ -545,11 +617,17 @@
+    
+     inbuf_preparse(tmp_pre); 
+     parsed_prefix = cmd_parse(tmp_pre);
++    free(tmp_pre);
++    tmp_pre = NULL;
+     //dbg("parsed_prefix:%s\n", parsed_prefix);
+ 
+     //get last partial-word for tab-completion
++    
++    tmp_pre = parsed_prefix;
+     endp = strrchr(parsed_prefix, ' ');
+     if (endp != NULL) {
++        endp[0] = '\0';
++
+         len = strlen(endp+1);
+         if (len == 0) {
+             parsed_prefix[0] = '\0';
+@@ -560,12 +638,12 @@
+             }
+             strncpy(buf, endp+1, len);
+             buf[len] = '\0';
+-            free(parsed_prefix);
++            //tmp_pre stores old 'parsed_prefix'
+             parsed_prefix = buf;
+         }
+     }
++
+     //dbg("2parsed_prefix:%s\n", parsed_prefix);
+-
+     if (parsed_prefix == NULL) {
+         parsed_prefix = malloc(1);
+         parsed_prefix[0] = '\0';
+@@ -574,41 +652,72 @@
+         pre_len = strlen(parsed_prefix);
+     }
+ 
++    //merge <parsed_prefix> + <p>
++    //TODO: make sure all_possible contains only one word.
+     p = strtok(all_possible, " \t\n");
+     if (p == NULL)
+         return -1;
+ 
+-
+     dbg("\npremerge:\nparsed_prefix:(%s)\n", parsed_prefix);
+     dbg("p:(%s)\n", p);
+ 
+-    if (p[0] == parsed_prefix[pre_len]) {
+-        parsed_prefix[pre_len] = '\0';
+-        pre_len--;
++    len = strlen(p);
++
++    if ((buf = malloc(pre_len+len+1)) == NULL) {
++        fprintf(stderr, "func(%s), line(%d): malloc failed.\n",
++            __FUNCTION__, (int)__LINE__);
++        return -1;
+     }
+ 
+-    //merge: <partial-inbuf> + <per-word_outbuf>
++    snprintf(buf, (len+pre_len+1), "%s%s", parsed_prefix, p);
++    buf[len+pre_len] = '\0';
++    ret = do_add_comp(buf);
++
++    (*completed) = rpl_strdup(buf);
++    
++    free(buf);
++    buf = NULL;
++
++    return ret;
++}
++
++static int add_comp_multi(const char *prefix, char *all_possible)
++{
++    int len = 0;
++    int ret = -1;
++    char *p = NULL;
++    char *buf = NULL;
++    char *endp = NULL;
++
++    dbg("%s\nprefix:(%s)\nall_possible:\n--\n%s\n--\n", 
++        __FUNCTION__, prefix, all_possible);
++
++    //get one word from all_possible and do_add_comp
++    p = strtok(all_possible, " \t\n");
++    if (p == NULL)
++        return -1;
++
+     while (p) {
+         len = strlen(p);
+-
+-        if ((buf = malloc(pre_len+len+1)) == NULL) {
++        if ((buf = malloc(len+1)) == NULL) {
+             fprintf(stderr, "func(%s), line(%d): malloc failed.\n",
+                 __FUNCTION__, (int)__LINE__);
+             return -1;
+         }
+-        dbg("\nmerge:\nparsed_prefix:(%s)\n", parsed_prefix);
++        memset(buf, 0, len+1);
++    
+         dbg("p:(%s)\n", p);
+-        snprintf(buf, (len+pre_len+1), "%s%s", parsed_prefix, p);
+-        buf[len+pre_len] = '\0';
+-        do_add_comp(buf);
++        strncpy(buf, p, len);
++        buf[len] = '\0';
++    
++        ret = do_add_comp(buf);
+         
+         free(buf);
+         buf = NULL;
+-
+         p = strtok(NULL, " \t\n");
+     }
+ 
+-    return 0;
++    return ret;
+ }
+ 
+ static int ps_appear(const char *ps, const char *p)
+@@ -624,6 +733,17 @@
+ 
+ static int do_add_comp(const char *word)
+ {
++
++    char *endp = NULL;
++    if (((endp = strchr(word, ' ')) != NULL) ||
++        ((endp = strchr(word, '\t')) != NULL) ||
++        ((endp = strchr(word, '\t')) != NULL)
++       )
++    {
++        fprintf(stderr, "\ndo_add_comp<bad-word>:%s\n", word);
++        return -1;
++    }
++
+     fprintf(stderr, "\ndo_add_comp:%s\n", word);
+     return 0;
+ }
+@@ -891,7 +1011,7 @@
+                          (c1 == '%') ||
+                          (c1 == '>'))
+         ))
+-        && (strchr(ps, '@'))
++//        && (strchr(ps, '@'))
+         )
+     {
+         return 0;

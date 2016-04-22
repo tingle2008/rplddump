@@ -1,0 +1,5011 @@
+EVT: 4a, lseek
+EVT: f0, lseek
+EVT: f1, lseek
+case EVT_WRITE
+
+[TTY_OUT]
+............
+Last login: Wed Sep  7 17:48:35 2011 from 220.181.68.208
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[1m[33m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+ _____           _                 
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+|_   _|_ _  ___ | |__   __ _  ___  
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+  | |/ _` |/ _ \| '_ \ / _` |/ _ \ 
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+  | | (_| | (_) | |_) | (_| | (_) |
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+  |_|\__,_|\___/|_.__/ \__,_|\___/ 
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hostname    : login1.cm5
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+ipaddress   : 172.25.100.205
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+oob_ip      : 
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+device      : IBM System x3550
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+group       : ops_tool
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[0m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[1m[31m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+Last Generated motd: Tue Jul 20 10:06:28 CST 2010
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[0m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:~
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+l
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+l
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+s
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00m[00;32mbad.log[00m  [00;34mbin[00m  [00;34m_del_[00m  [00;34mtrans[00m  [00mvimrc[00m  [00;34mwork[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[m
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:~
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+c
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+c
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+d
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+d
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+ 
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+.
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+.
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+.
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+.
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:/home
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+l
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+l
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+s
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00m[00;34machi.zc[00m          [00;34mfengjing.wy.DEL[00m    [00;34mkumu.whj[00m         [00;34mqianjun.fgj[00m       [00;34mwangyuechao.pt[00m      [00;34myixiao.wxw[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34madmin[00m            [00;34mfengqian.txy[00m       [00;34mkungu.mjh[00m        [00;34mqianjun.liqj[00m      [00;34mwangzhao[00m            [00;34myixuan.zzq[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mads[00m              [00;34mfengshen[00m           [00;34mkunlun[00m           [00;34mqianshang[00m         [00;34mwangzhe.wc[00m          [00;34myiyu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mafan[00m             [00;34mfengsheng[00m          [00;34mkunshuo[00m          [00;34mqianshi[00m           [00;34mwanjian[00m             [00;34myiyun[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34maguda[00m            [00;34mfengxian[00m           [00;34mkuorui[00m           [00;34mqianshi.yf[00m        [00;34mwanli[00m               [00;34myiyun.lyd[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34maidi.ad[00m          [00;34mfengxian.lx[00m        [00;34mkuotai[00m           [00;34mqianwei[00m           [00;34mwanpei[00m              [00;34myizhu.llf.DEL[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34maiyuan.kangay[00m    [00;34mfengxinping_a.pt[00m   [00;34mlaiqi.zj[00m         [00;34mqianxiang[00m         [00;34mwanshan.zt[00m          [00;34myizi.xfl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mamu.lh[00m           [00;34mfengyu.fb[00m          [00;34mlaisheng.dj.DEL[00m  [00;34mqianyi.zby[00m        [00;34mwanyi.cl[00m            [00;34myonghao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34manshi[00m            [00;34mforrest.fengls[00m     [00;34mlanbo.xj[00m         [00;34mqiaocui[00m           [00;34mwayne.wuw[00m           [00;34myongheng.kxh[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34manshun[00m           [00;34mfucai.zhangfc[00m      [00;34mlanchen[00m          [00;34mqiaoyin.dzh[00m       [00;34mwb-changbo[00m          [00;34myongning.DEL[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34maobing.cdq[00m       [00;34mfudi[00m               [00;34mlangkun.zyf[00m      [00;34mqidu.taohua[00m       [00;34mwb-hufengjian.DEL[00m   [00;34myongpan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34maoguang.ck[00m       [00;34mfuhao.xlh[00m          [00;34mlangying[00m         [00;34mqier[00m              [00;34mwb-linke[00m            [00;34myongqing.lsj[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00maquota.group[00m     [00;34mfuquan.xh[00m          [00;34mlanke.mgc[00m        [00;34mqier.gj.DEL[00m       [00;34mwb-linlihai[00m         [00;34myongqi.zq[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00maquota.user[00m      [00;34mfuqu.lgd[00m           [00;34mlanshang[00m         [00;34mqihao[00m             [00;34mwb-liuwenzhong[00m      [00;34myongwei[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34masi[00m              [00;34mfusu[00m               [00;34mlansheng.pw[00m      [00;34mqiji.DEL[00m          [00;34mwb_nierunsheng.DEL[00m  [00;34myouji.zj[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34maudit[00m            [00;34mfuweiwei.pt[00m        [00;34mlansheng.zj[00m      [00;34mqimie.yzm[00m         [00;34mwb-ningxiaojin[00m      [00;34myoulong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbabo[00m             [00;34mfuying.yz[00m          [00;34mlanxiang[00m         [00;34mqincheng[00m          [00;34mwb-shujun[00m           [00;34myoushan.DEL[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaifei[00m           [00;34mganjiang[00m           [00;34mlanyi[00m            [00;34mqinde[00m             [00;34mwb-sunlongbao[00m       [00;34myouxia[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbailan.lq[00m        [00;34mganlv[00m              [00;34mlanyin.smz[00m       [00;34mqinfeng[00m           [00;34mwb-wangdezhi[00m        [00;34myuanba[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaile[00m            [00;34mganyu.hfl[00m          [00;34mlaoshi.dhy[00m       [00;34mqingdu[00m            [00;34mwb-wangjian.DEL[00m     [00;34myuanba.yl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbailuo.wd[00m        [00;34mgaobinbin.tw[00m       [00;34mlatu.czx[00m         [00;34mqingfei[00m           [00;34mwb-wuyimin[00m          [00;34myuanchao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaisheng[00m         [00;34mgaoshuai.pt[00m        [00;34mlehou[00m            [00;34mqingjian.zxl[00m      [00;34mwb-yangke[00m           [00;34myuanchao.snf[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaishou[00m          [00;34mgaoyang.zyh[00m        [00;34mleibiao[00m          [00;34mqinglie[00m           [00;34mwb-yangmin[00m          [00;34myuanchuo[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaixiong.DEL[00m     [00;34mgaoyan.taohua[00m      [00;34mleifeng[00m          [00;34mqingling.wj[00m       [00;34mwb-zhanghongyuan[00m    [00;34myuanfang.typ[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaiyan[00m           [00;34mgeer[00m               [00;34mleiteng[00m          [00;34mqinglin.rxj[00m       [00;34mwb-zhanyanming[00m      [00;34myuanfei.tzw[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaiyi.pb[00m         [00;34mgengdian[00m           [00;34mleiwen.zh[00m        [00;34mqingli.oyr[00m        [00;34mwb-zhaoping[00m         [00;34myuanfu.zzy[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaiyi.yj[00m         [00;34mgengnie.ksq[00m        [00;34mleiyin[00m           [00;34mqingmeng.ww[00m       [00;34mweihong.cwh[00m         [00;34myuanguifei.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaiyu[00m            [00;34mgenxian[00m            [00;34mleiyun.DEL[00m       [00;34mqingming.lxj[00m      [00;34mweinianhua.pt[00m       [00;34myuanhan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaizai.qex[00m       [00;34mgetian[00m             [00;34mlemie[00m            [00;34mqingning.ncl[00m      [00;34mweiqing.wlc[00m         [00;34myuanhao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaizhuo[00m          [00;34mgongbingyin.pt[00m     [00;34mlengchuan.gw[00m     [00;34mqingping[00m          [00;34mweique.lqf[00m          [00;34myuanhong.shx[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbanqiao.swb[00m      [00;34mgongchong.hh[00m       [00;34mlengda[00m           [00;34mqingshu[00m           [00;34mweisheng[00m            [00;34myuanji[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbanruo[00m           [00;34mgongda.cx[00m          [00;34mlengyu[00m           [00;34mqingsi.tsd[00m        [00;34mweiyue[00m              [00;34myuanjia[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaoniu[00m           [00;34mgongjin[00m            [00;34mlengyue.sj[00m       [00;34mqingwu[00m            [00;34mweizhen[00m             [00;34myuankan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbaqun.zl[00m         [00;34mgonglei.pt.DEL[00m     [00;34mlezhi.dxg.DEL[00m    [00;34mqingxu[00m            [00;34mwencha.lyh[00m          [00;34myuanmu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbazhen.csy[00m       [00;34mgongping[00m           [00;34mliancang[00m         [00;34mqingyuan[00m          [00;34mwendong[00m             [00;34myuanqiao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbeidu[00m            [00;34mgongsunhong[00m        [00;34mlianchan[00m         [00;34mqingyu.fl[00m         [00;34mwenfei.DEL[00m          [00;34myuanxing[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbeifei[00m           [00;34mgongtai[00m            [00;34mliangdong[00m        [00;34mqingzhu[00m           [00;34mwenguang[00m            [00;34myuanyao.zq[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbeifeng.xy[00m       [00;34mgongtai.yhl[00m        [00;34mlianghe.zhf[00m      [00;34mqinlei.pt[00m         [00;34mwenhe[00m               [00;34myuanyue.hyj[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbeilou.wjy[00m       [00;34mgongtao.luogt[00m      [00;34mliangkai[00m         [00;34mqinlong[00m           [00;34mwenjin[00m              [00;34myubai.lk[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbeiming.zzp[00m      [00;34mgongyi.cl[00m          [00;34mliangzhan.qj[00m     [00;34mqinweng.jh[00m        [00;34mwenjing[00m             [00;34myuchu.ljq[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbeimo.DEL[00m        [00;34mgongzheng[00m          [00;34mlianhua[00m          [00;34mqinzhong[00m          [00;34mwenjing.dgh[00m         [00;34myucong.lj[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbeitang.xz[00m       [00;34mguangcan[00m           [00;34mlianming[00m         [00;34mqishanghai.pt[00m     [00;34mwenlei.wwx[00m          [00;34myudie[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbeiyu.lwm[00m        [00;34mguangming.lgm[00m      [00;34mlidun[00m            [00;34mqiudi[00m             [00;34mwenmao[00m              [00;34myuehan.lj[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbenwu[00m            [00;34mguangquan.ljy.DEL[00m  [00;34mlieyuan[00m          [00;34mqiuming.zjp[00m       [00;34mwenqing.lz[00m          [00;34myuenv[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbenyin[00m           [00;34mguangrui[00m           [00;34mligang.mgw[00m       [00;34mqiuqi.wsy[00m         [00;34mwentong[00m             [00;34myueyan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbida[00m             [00;34mguangyuan[00m          [00;34mlihong[00m           [00;34mqiushu.zyk[00m        [00;34mwentuo[00m              [00;34myufan.wl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbieli.lt[00m         [00;34mguangyuan.gjk[00m      [00;34mlijilin.hitao[00m    [00;34mqiuwei.ym[00m         [00;34mwenxun.zhm[00m          [00;34myuhao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbifu[00m             [00;34mguangzhao[00m          [00;34mlijunhao.pt[00m      [00;34mqi.xiongq[00m         [00;34mwuchan.lcq[00m          [00;34myuji[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbingdan[00m          [00;34mguanxin.zw[00m         [00;34mlilin_l.pt[00m       [00;34mqiyu.pt[00m           [00;34mwuchen[00m              [00;34myulin.DEL[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbingjia.ymw.DEL[00m  [00;34mguanying[00m           [00;34mlinchen[00m          [00;34mqizhu[00m             [00;34mwuchen.lx[00m           [00;34myuling.sh[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbingshan.wang[00m    [00;34mguanzhi.ll[00m         [00;34mlinfeng.sjn[00m      [00;34mquan.zhouq[00m        [00;34mwudan.pt[00m            [00;34myulong.yhj[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbingyi.wz[00m        [00;34mguhe.lzm[00m           [00;34mlingbao[00m          [00;34mquehan[00m            [00;34mwudi.xhf[00m            [00;34myulou[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbingyue.lbb[00m      [00;34mguiche.lhz[00m         [00;34mlingce[00m           [00;34mqufeng[00m            [00;34mwufeng[00m              [00;34myunan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbiqi[00m             [00;34mguichen[00m            [00;34mlingcheng[00m        [00;34mquli[00m              [00;34mwuhaiqian.pt[00m        [00;34myunchen[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbishan.ct[00m        [00;34mguili.ll[00m           [00;34mlingfei[00m          [00;34mqunxiong.zqx[00m      [00;34mwuhao.wh[00m            [00;34myuncheng[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbixiao.zy[00m        [00;34mguinan[00m             [00;34mlingfeng[00m         [00;36mquota.group[00m       [00;34mwuhua[00m               [00;34myunchong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbixuan[00m           [00;34mguipu[00m              [00;34mlingfeng.wb[00m      [00;36mquota.user[00m        [00;34mwuhui.zhuwh[00m         [00;34myundai[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbohan.sj[00m         [00;34mguishou.zst[00m        [00;34mlingkan[00m          [00;34mqusan[00m             [00;34mwuming.zy[00m           [00;34myundian.dsb[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbolei[00m            [00;34mguizhen[00m            [00;34mlingkong[00m         [00;34mqushan[00m            [00;34mwushi[00m               [00;34myundong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mboling.myx[00m       [00;34mguizhong.ygy[00m       [00;34mlingkong.hx[00m      [00;34mrandeng[00m           [00;34mwushi.ly[00m            [00;34myunhao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbolin.hbc[00m        [00;34mguji.hcl[00m           [00;34mlingkun.DEL[00m      [00;34mrangeng.llb[00m       [00;34mwuting[00m              [00;34myunjie.lt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mboluo.ybb[00m        [00;34mgumo[00m               [00;34mlingning[00m         [00;34mranweng.hjk[00m       [00;34mwuxiang[00m             [00;34myunlei.cyl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbonan.zj[00m         [00;34mguodong.wzh[00m        [00;34mlingqi[00m           [00;34mrenjun[00m            [00;34mwuxiaodan.pt[00m        [00;34myunpeng[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mboqian.zwq[00m       [00;34mguoliang[00m           [00;34mlingqiu[00m          [00;34mrenting[00m           [00;34mwuxiao.DEL[00m          [00;34myunqian[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbosong.ly[00m        [00;34mguoqing[00m            [00;34mlingsai.mjh[00m      [00;34mrentong[00m           [00;34mwuxia.sr[00m            [00;34myunqing.lyq[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mboyan[00m            [00;34mguoweiyu.pt[00m        [00;34mlingshen[00m         [00;34mrenying[00m           [00;34mwuxie.wl[00m            [00;34myunrui[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mboyi.wb[00m          [00;34mguoyou[00m             [00;34mlingshuang[00m       [00;34mrenzhong[00m          [00;34mwuxin.sn[00m            [00;34myunshu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mboyuan.tl[00m        [00;34mguyi[00m               [00;34mlingxi[00m           [00;34mridi.lyw.DEL[00m      [00;34mwuyang[00m              [00;34myuntian[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mboyu.mt[00m          [00;34mguying[00m             [00;34mlingxia.fyh[00m      [00;34mrizhao.ych[00m        [00;34mwuyuan.lfk[00m          [00;34myunwang.xhf[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbuan.hs[00m          [00;34mguzhen[00m             [00;34mlingxiang.zcx[00m    [00;34mrongruo.lsx[00m       [00;34mwuzhong[00m             [00;34myunxing.cyx[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbuchen.ksg[00m       [00;34mguzhong[00m            [00;34mlingxiao.md[00m      [00;34mrongtian[00m          [00;34mwuzhu[00m               [00;34myunxi.zx[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbucui[00m            [00;34mhachi[00m              [00;34mlingxiao.zjy[00m     [00;34mrubing.fy[00m         [00;34mxiabing.zl[00m          [00;34myunyi[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbuhan[00m            [00;34mhadoop[00m             [00;34mlingxi.lxx[00m       [00;34mrulong[00m            [00;34mxiahuai[00m             [00;34myunyuan.zhangyy[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbuju[00m             [00;34mhaipei.ztf[00m         [00;34mlingyue.wkl[00m      [00;34mruodao.DEL[00m        [00;34mxiangbin[00m            [00;34myunzhan.jtq[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbuke[00m             [00;34mhaiquan.guhq[00m       [00;34mlingzhan[00m         [00;34mruohai[00m            [00;34mxiangdan.ly[00m         [00;34myunzhao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbuming[00m           [00;34mhanbai[00m             [00;34mlingzhao[00m         [00;34mruonan.gxx[00m        [00;34mxiangfei[00m            [00;34myunzheng[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbunu[00m             [00;34mhanfei.js[00m          [00;34mlingzun.cyb[00m      [00;34mruoxu[00m             [00;34mxiangliang[00m          [00;34myunzhong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbuping[00m           [00;34mhangzhang[00m          [00;34mlinhe.dy[00m         [00;34mruyun.wj[00m          [00;34mxiangyan[00m            [00;34myuqian.lrl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbuqing[00m           [00;34mhang.zhang[00m         [00;34mlinrui.lql[00m       [00;34msaba.ljx[00m          [00;34mxiangyang[00m           [00;34myusa[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbutai[00m            [00;34mhanjun.jcc[00m         [00;34mlinxiao.llw[00m      [00;34msailuo[00m            [00;34mxiangyong.hs[00m        [00;34myushi.wxg[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbutu.wf[00m          [00;34mhanling[00m            [00;34mlinxuan[00m          [00;34msaite.wd[00m          [00;34mxiaocheng[00m           [00;34myushun.swh[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mbuwei.hlf[00m        [00;34mhantang.cj[00m         [00;34mlinyi[00m            [00;34msajia[00m             [00;34mxiaochi.flj[00m         [00;34myushu.zkk[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcaidongzhe.pt[00m    [00;34mhantao.DEL[00m         [00;34mlinyi.zll[00m        [00;34msanbai[00m            [00;34mxiaochong[00m           [00;34myutian.xb[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcaiqiong[00m         [00;34mhanxiao[00m            [00;34mliquan.tanlq[00m     [00;34msande.gq[00m          [00;34mxiaochuo[00m            [00;34myutong.smh[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcaishuang[00m        [00;34mhanyu.lwj[00m          [00;34mlisi[00m             [00;34msangzhi[00m           [00;34mxiaodong.langxd[00m     [00;34myuwen.xm[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcaiya.lww[00m        [00;34mhanzhang[00m           [00;34mliting[00m           [00;34msanjing.jyx[00m       [00;34mxiaodu[00m              [00;34myuxiao.lss[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcaiyue[00m           [00;34mhaohai.wl[00m          [00;34mliubingbing.pt[00m   [00;34msantai.ww[00m         [00;34mxiaofan[00m             [00;34myuxinbo.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcangqing.wns[00m     [00;34mhaohan[00m             [00;34mliudezhi.pt[00m      [00;34msantong.oww[00m       [00;34mxiaofei[00m             [00;34myuxu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcangxuan.djm[00m     [00;34mhaolan.jc[00m          [00;34mliujinye.pt[00m      [00;34msanxiao[00m           [00;34mxiaofeng[00m            [00;34myuxuan.cxm[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcanhun[00m           [00;34mhaonan.wy[00m          [00;34mliukun[00m           [00;34msanxing[00m           [00;34mxiaofeng.xb[00m         [00;34mzaitian.cfg[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcanjian[00m          [00;34mhaotian[00m            [00;34mliuliang[00m         [00;34mshanda[00m            [00;34mxiaohan.hhy[00m         [00;34mzaixing[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcaoqiao[00m          [00;34mhaoting.wq[00m         [00;34mliupo[00m            [00;34mshangu.zyg[00m        [00;34mxiaohong.yjh[00m        [00;34mzangtu.cr[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcaoyesheng.pt[00m    [00;34mhaowen[00m             [00;34mliuqing[00m          [00;34mshantong[00m          [00;34mxiaohu.xh[00m           [00;34mzengyu.cw[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcenpeng.lwm[00m      [00;34mheda.ccy[00m           [00;34mliuqing.zwp[00m      [00;34mshanxiang.yxy[00m     [00;34mxiaojie.lgx[00m         [00;34mzeyin[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangbin.ydd[00m     [00;34mhede[00m               [00;34mliuru[00m            [00;34mshaoan.wsz[00m        [00;34mxiaoleng.nj[00m         [00;34mzeyuan.wl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangchun.wzj[00m    [00;34mhegen[00m              [00;34mliushun[00m          [00;34mshaofu[00m            [00;34mxiaoliang.zxl[00m       [00;34mzf.zhouf.DEL[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangfang[00m        [00;34mheixia.xzl[00m         [00;34mliuxibing.hitao[00m  [00;34mshaohao[00m           [00;34mxiaopan.lg[00m          [00;34mzhanfan.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchanggong[00m        [00;34mhengbo.jqm[00m         [00;34mliuxun[00m           [00;34mshaohua.yangsh[00m    [00;34mxiaopan.shenxp[00m      [00;34mzhanfei.tm[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangjie[00m         [00;34mhenshao[00m            [00;34mliuyang.pt[00m       [00;34mshaojie[00m           [00;34mxiaoran.xjb[00m         [00;34mzhangba[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangkong[00m        [00;34mhongbing.ww[00m        [00;34mliuyangyang.pt[00m   [00;34mshaokun[00m           [00;34mxiaorong.xr[00m         [00;34mzhangfeng[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangliang.xucl[00m  [00;34mhongbo[00m             [00;34mliuyun.DEL[00m       [00;34mshaoman.lhj[00m       [00;34mxiaosheng[00m           [00;34mzhanggong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchanglin[00m         [00;34mhongchuan[00m          [00;34mlixian[00m           [00;34mshaoshuai[00m         [00;34mxiaosheng.gyx[00m       [00;34mzhanghei[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchanglong.scl[00m    [00;34mhongdeng[00m           [00;34mliyiting.pt[00m      [00;34mshaoxia[00m           [00;34mxiaoshi.xjl[00m         [00;34mzhangjun.zyk[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangmen.zx[00m      [00;34mhongfeng.zpf.DEL[00m   [00;34mliyuan.skj[00m       [00;34mshaoyao[00m           [00;34mxiaoshu.wb[00m          [00;34mzhangli_z.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangren[00m         [00;34mhongmeng[00m           [00;34mliyu.pt[00m          [00;34mshenfeng[00m          [00;34mxiaoteng.xsj[00m        [00;34mzhangsan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangsheng[00m       [00;34mhongye[00m             [00;34mlizi[00m             [00;34mshenggong.wang[00m    [00;34mxiaoxian.zzy[00m        [00;34mzhangshurui.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangye.sgy[00m      [00;34mhongye.hwy[00m         [00;34mlogs[00m             [00;34mshenglan[00m          [00;34mxiaoxie[00m             [00;34mzhangsuntai[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangyuan.lh[00m     [00;34mhongyu.luo[00m         [00;34mlongan.rtb[00m       [00;34mshengtong[00m         [00;34mxiaoyu.lzl[00m          [00;34mzhangtao.tw[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchangyu.zcy[00m      [00;34mhongzhen.lm[00m        [00;34mlongfeng[00m         [00;34mshengxiang[00m        [00;34mxiaozhi[00m             [00;34mzhangxiaocheng.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchao.liangc[00m      [00;34mhoufeng[00m            [00;34mlongjia.zt[00m       [00;34mshengyi[00m           [00;34mxiaozuo[00m             [00;34mzhangxin.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchaoming[00m         [00;34mhouyi[00m              [00;34mlongji.lqs[00m       [00;34mshenxun[00m           [00;34mxide.ql[00m             [00;34mzhangxun[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchaoyin[00m          [00;34mhuaidao.DEL[00m        [00;34mlongmu[00m           [00;34mshenyu.sy[00m         [00;34mxiejian.hitao[00m       [00;34mzhangyingwen.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchaoyuan[00m         [00;34mhuairen.czj[00m        [00;34mlongsu.zk[00m        [00;34mshiang[00m            [00;34mxielun.szd[00m          [00;34mzhangyuan.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenchen_ch.pt[00m   [00;34mhuaisu[00m             [00;34mlongyi.DEL[00m       [00;34mshice.tw[00m          [00;34mxiexuan[00m             [00;34mzhangyu_zh.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenfeng.cgq[00m     [00;34mhuali[00m              [00;34mlongyue[00m          [00;34mshicheng[00m          [00;34mxiezhen.jjn[00m         [00;34mzhangzhiwen.hitao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengcang[00m        [00;34mhuanbo[00m             [00;34mlongzu.zzx[00m       [00;34mshigong[00m           [00;34mxifan[00m               [00;34mzhangzhong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengduo.hf[00m      [00;34mhuangjiaqi.pt[00m      [00;34mlost+found[00m       [00;34mshigong.DEL[00m       [00;34mxihong[00m              [00;34mzhangzhuang.sbb[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengenpeng.pt[00m   [00;34mhuangju.taohua[00m     [00;34mlufeng.fx[00m        [00;34mshihao[00m            [00;34mxijiu[00m               [00;34mzhanning[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengguan[00m        [00;34mhuangliu.hlz[00m       [00;34mluhu[00m             [00;34mshihong[00m           [00;34mxile[00m                [00;34mzhanseng[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenghao[00m         [00;34mhuangmei[00m           [00;34mlujiaojiao.pt[00m    [00;34mshijia.wxr[00m        [00;34mximing[00m              [00;34mzhanying[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengshi[00m         [00;34mhuangqiuchan.pt[00m    [00;34mluofang[00m          [00;34mshikai.chj[00m        [00;34mximu[00m                [00;34mzhanyi.wty[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengtai.DEL[00m     [00;34mhuangyue.pt[00m        [00;34mluogui.wp[00m        [00;34mshikun[00m            [00;34mxinchang.jl[00m         [00;34mzhaochao.tw[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengtang.lws[00m    [00;34mhuankong[00m           [00;34mluohai.hjf[00m       [00;34mshili.lzy[00m         [00;34mxingchi.DEL[00m         [00;34mzhaodan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengxiang[00m       [00;34mhuating.zmq[00m        [00;34mluohan[00m           [00;34mshiming[00m           [00;34mxinghan[00m             [00;34mzhaolinxiang.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengxi.yh[00m       [00;34mhuaxiang[00m           [00;34mluojiao.pt[00m       [00;34mshipu[00m             [00;34mxingheng.yxc[00m        [00;34mzhaoming.dgt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengyu[00m          [00;34mhuazhao[00m            [00;34mluojing.pt[00m       [00;34mshiqi[00m             [00;34mxinghun[00m             [00;34mzhaoming.ywt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengyu.gr[00m       [00;34mhuijue[00m             [00;34mluoli.hn[00m         [00;34mshiqian[00m           [00;34mxingjian.cgs[00m        [00;34mzhaowenfeng.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengyun[00m         [00;34mhuiru[00m              [00;34mluomingyue.pt[00m    [00;34mshitian.swl.DEL[00m   [00;34mxingjiu[00m             [00;34mzhaowen.nlk[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchengze[00m          [00;34mhuitong[00m            [00;34mluopeng.lp[00m       [00;34mshitian.zdx[00m       [00;34mxingkui.lxg[00m         [00;34mzhaoyuan.zjl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenhan.pt[00m       [00;34mhuiyan.jhf[00m         [00;34mluoxi[00m            [00;34mshitou[00m            [00;34mxingling[00m            [00;34mzhebie[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenlin.xlb[00m      [00;34mhukui[00m              [00;34mluoxuan[00m          [00;34mshituo.lyc[00m        [00;34mxingshi.ycy[00m         [00;34mzhenbei[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenmu[00m           [00;34mhuolin.yhl[00m         [00;34mluqi[00m             [00;34mshixian[00m           [00;34mxingyuan[00m            [00;34mzhendao.taohua.DEL[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchensong.zjd[00m     [00;34mhuolong[00m            [00;34mluqian[00m           [00;34mshixi.gs[00m          [00;34mxinhua.zhuxh[00m        [00;34mzhenfang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenxiang.cmw[00m    [00;34mjiabiao.pt[00m         [00;34mluqiao[00m           [00;34mshixing[00m           [00;34mxining.zj[00m           [00;34mzhenfei[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenxiao.zx[00m      [00;34mjiafei.hxn[00m         [00;34mluxiong.lk[00m       [00;34mshixuan[00m           [00;34mxinshi[00m              [00;34mzhengda[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenxuan.pzh[00m     [00;34mjiale[00m              [00;34mluyun[00m            [00;34mshiyu.jt[00m          [00;34mxinshu.wzx[00m          [00;34mzhengdao.taohua[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenyu.cy[00m        [00;34mjialu[00m              [00;34mluzhoulei.pt[00m     [00;34mshizhang.wl[00m       [00;34mxinye.ll[00m            [00;34mzhengde[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenyun[00m          [00;34mjiaman.cw[00m          [00;34mlvshuang.xjs[00m     [00;34mshouque[00m           [00;34mxiuhui.shenxh[00m       [00;34mzhengfeng[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchenzhan[00m         [00;34mjiamiao.qsh[00m        [00;34mlz[00m               [00;34mshuaichaoqian.pt[00m  [00;34mxiulan.wjq[00m          [00;34mzhenggang.hzg[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchifeng.xs[00m       [00;34mjiaming.zl[00m         [00;34mmachi[00m            [00;34mshuangtian.zyh[00m    [00;34mxiuwen[00m              [00;34mzhenghong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchijiong[00m         [00;34mjiana[00m              [00;34mmahua[00m            [00;34mshuao[00m             [00;34mxiyang.fyl.DEL[00m      [00;34mzhengliang.zwh[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchisong.xjm[00m      [00;34mjianbai.gbj[00m        [00;34mmaiqi[00m            [00;34mshubao.sx[00m         [00;34mxiyan.ml[00m            [00;34mzhenglong.zz[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchixia[00m           [00;34mjianchou[00m           [00;34mmanyi[00m            [00;34mshuchi[00m            [00;34mxiyu.lh[00m             [00;34mzhengming[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchiyan[00m           [00;34mjiangfeng[00m          [00;34mmaokaibo.pt[00m      [00;34mshudu[00m             [00;34mxizhu.wht[00m           [00;34mzhengqing[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchiyou[00m           [00;34mjianglang[00m          [00;34mmaoqi[00m            [00;34mshuhan[00m            [00;34mxuanbei[00m             [00;34mzhengwei.hitao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchiyue.zk[00m        [00;34mjiangling.pt[00m       [00;34mmatai.sp.DEL[00m     [00;34mshuide.lyb[00m        [00;34mxuancan[00m             [00;34mzhengxiang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchonghou[00m         [00;34mjiangwen.pt[00m        [00;34mmaxin.mbd[00m        [00;34mshuihan[00m           [00;34mxuancheng.jc[00m        [00;34mzhengze.jy[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchonglou[00m         [00;34mjiangxian[00m          [00;34mmaying.pt[00m        [00;34mshuijian[00m          [00;34mxuanchong.lq[00m        [00;34mzhenkun.wsh[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchongtian.zl[00m     [00;34mjiangyi.ctd[00m        [00;34mmazhan[00m           [00;34mshuimei.ll[00m        [00;34mxuanfeng[00m            [00;34mzhennan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchoutian.xmm[00m     [00;34mjianhao[00m            [00;34mmeier[00m            [00;34mshujian[00m           [00;34mxuanhou.ysh[00m         [00;34mzhentian.zfc[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchuangong[00m        [00;34mjianhui.chujh[00m      [00;34mmeining[00m          [00;34mshuman.gansm[00m      [00;34mxuanji[00m              [00;34mzhenzhong.why[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchuansheng[00m       [00;34mjianping.DEL[00m       [00;34mmengfei[00m          [00;34mshuoyang[00m          [00;34mxuanku[00m              [00;34mzhenzi[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchuba[00m            [00;34mjianshen[00m           [00;34mmengfei.pzy[00m      [00;34mshutong[00m           [00;34mxuanming.wh[00m         [00;34mzhichang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchucai[00m           [00;34mjiansheng[00m          [00;34mmenghong[00m         [00;34mshutong.dy[00m        [00;34mxuanqi[00m              [00;34mzhidao.DEL[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchuliang[00m         [00;34mjianshi.shl[00m        [00;34mmengjue[00m          [00;34mshuyan.lmy[00m        [00;34mxuanran[00m             [00;34mzhiguang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchuluan.ll[00m       [00;34mjiansu[00m             [00;34mmengka.hyy[00m       [00;34mshuzhi.feng[00m       [00;34mxuanruo.zsr[00m         [00;34mzhiguang.xzg[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchunchi[00m          [00;34mjianxiao[00m           [00;34mmengping[00m         [00;34msihai[00m             [00;34mxuantian.dzp[00m        [00;34mzhihong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchundu.zzh[00m       [00;34mjianxing.qx[00m        [00;34mmengru[00m           [00;34msihu[00m              [00;34mxuantong[00m            [00;34mzhihun[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchunlai.DEL[00m      [00;34mjianyang[00m           [00;34mmengting[00m         [00;34msimin[00m             [00;34mxuanwei[00m             [00;34mzhiping.lkp[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchuqian[00m          [00;34mjianzhi[00m            [00;34mmengzhen[00m         [00;34msisheng.wf[00m        [00;34mxuanxiao[00m            [00;34mzhiqi[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchusui[00m           [00;34mjiaoyi[00m             [00;34mmengzhu.lc[00m       [00;34msixie.xyn[00m         [00;34mxuanxi.DEL[00m          [00;34mzhiran.lzd[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchutian.zjl[00m      [00;34mjiaqi.wgm[00m          [00;34mmenhaihao.pt[00m     [00;34msiyong.dxh[00m        [00;34mxuanyang[00m            [00;34mzhixia[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchuyi[00m            [00;34mjiayi[00m              [00;34mmianfeng[00m         [00;34msonghong.ljy[00m      [00;34mxuanye.sy[00m           [00;34mzhixing[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mchuyu[00m            [00;34mjiazi.xh[00m           [00;34mmiaofeng[00m         [00;34msongjing[00m          [00;34mxuanyin.zy[00m          [00;34mzhixuan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcilai[00m            [00;34mjicheng.pg[00m         [00;34mmiaohai[00m          [00;34msongpo.ath[00m        [00;34mxuanyu[00m              [00;34mzhixu.zt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcuiying.wyc[00m      [00;34mjieran[00m             [00;34mmiaowen[00m          [00;34msongzhi[00m           [00;34mxuanyue.DEL[00m         [00;34mzhiyuan.lgb[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mcuozhi[00m           [00;34mjifeng[00m             [00;34mmiaozhen.lhp[00m     [00;34msuixi.cw[00m          [00;34mxuanzhi.qlb[00m         [00;34mzhizhang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdadu.cjl[00m         [00;34mjifeng.zjd[00m         [00;34mmifu[00m             [00;34msunhua[00m            [00;34mxuanzi.wp[00m           [00;34mzhongde.pjm[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdafeng[00m           [00;34mjigang.djg[00m         [00;34mmihe[00m             [00;34msuoni[00m             [00;34mxuechen.wzm[00m         [00;34mzhongfeng.langzf[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdafu[00m             [00;34mjinbao[00m             [00;34mmilo.zhang[00m       [00;34msupu[00m              [00;34mxuekui[00m              [00;34mzhonghao[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaguan.taohua[00m    [00;34mjingchao.pt[00m        [00;34mmiluo[00m            [00;34msuqian.yf[00m         [00;34mxueqi[00m               [00;34mzhonghuan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdahong[00m           [00;34mjingguang.hm[00m       [00;34mmingang[00m          [00;34msuzhen[00m            [00;34mxueshuai.pt[00m         [00;34mzhonglongwei.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaitian[00m          [00;34mjinghua.fengjh[00m     [00;34mmingchen[00m         [00;34msuzhe.okr[00m         [00;34mxuexia[00m              [00;34mzhongming[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaizhen.klh[00m      [00;34mjinghui.zhongjh[00m    [00;34mmingfeng[00m         [00;34mtaifeng.wjm[00m       [00;34mxuezhu[00m              [00;34mzhongping.lt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdalei[00m            [00;34mjingjie[00m            [00;34mminggen.pl[00m       [00;34mtaiguan[00m           [00;34mxuming[00m              [00;34mzhongsheng.cxj[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdanchen[00m          [00;34mjingjing[00m           [00;34mmingke[00m           [00;34mtaiqing[00m           [00;34mxunyu.hd[00m            [00;34mzhongxiang.xw[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdanyuan.wl[00m       [00;34mjinglei.syh[00m        [00;34mminglong.lym[00m     [00;34mtaiqiu[00m            [00;34mxuqiyu.pt[00m           [00;34mzhongxin[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaoan[00m            [00;34mjinglong.pq[00m        [00;34mmingxue.nyy[00m      [00;34mtaiyi.zjh[00m         [00;34mxusheng.lj[00m          [00;34mzhongxuan.llf[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaochuan.pz[00m      [00;34mjingren[00m            [00;34mmingyan.zc[00m       [00;34mtakong[00m            [00;34mxuyan[00m               [00;34mzhongyin.xy[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaofan[00m           [00;34mjingsheng[00m          [00;34mminyan[00m           [00;34mtanglong[00m          [00;34mxuyi.zl[00m             [00;34mzhouchen.zm[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaolin[00m           [00;34mjingshi.gk[00m         [00;34mminyi[00m            [00;34mtangsan.xjb[00m       [00;34mxuyuan[00m              [00;34mzhoufang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaoxian[00m          [00;34mjingting.wwp[00m       [00;34mmocui[00m            [00;34mtangyanyan.pt[00m     [00;34mxuyun[00m               [00;34mzhougan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaoxin.lj[00m        [00;34mjingwei.ljw[00m        [00;34mmoer[00m             [00;34mtangyi[00m            [00;34myafu.zhp[00m            [00;34mzhoujian[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdapeng[00m           [00;34mjingyuan.xhb[00m       [00;34mmofan.cjj[00m        [00;34mtanyan.lm[00m         [00;34myanbei.DEL[00m          [00;34mzhouliang.zl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaren[00m            [00;34mjinliang.lh[00m        [00;34mmohan.zl[00m         [00;34mtaofang[00m           [00;34myanchun.zgq[00m         [00;34mzhouqi.DEL[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdatong[00m           [00;34mjinmi.jwj[00m          [00;34mmohan.zzg[00m        [00;34mtaogu.mxx[00m         [00;34myangge[00m              [00;34mzhouqi.taohua[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdawu[00m             [00;34mjinqiu[00m             [00;34mmoling[00m           [00;34mtaojun[00m            [00;34myangle.pt[00m           [00;34mzhoutong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdaye[00m             [00;34mjinsen.xujs[00m        [00;34mmoqing.cbl[00m       [00;34mtaorui.wj[00m         [00;34myanglian.wl[00m         [00;34mzhoutong.yzx[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdazhi[00m            [00;34mjinshen.wpf[00m        [00;34mmowei.xlz[00m        [00;34mtaozi.ly[00m          [00;34myanglu.pt[00m           [00;34mzhouxu.ljx[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdenghaichuan.pt[00m  [00;34mjinwei_j.pt[00m        [00;34mmowen.wf[00m         [00;34mtiance[00m            [00;34myangwan.zlz[00m         [00;34mzhouying.DEL[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdengjianjun.pt[00m   [00;34mjinwen[00m             [00;34mmoxing.zc[00m        [00;34mtianchong[00m         [00;34myangxianghe.hitao[00m   [00;34mzhouyuying.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdengwu[00m           [00;34mjinxi.kj[00m           [00;34mmoyuan.kk[00m        [00;34mtiandu.dt[00m         [00;34myangyi.czh[00m          [00;34mzhuangyi[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdetai[00m            [00;34mjinyao[00m             [00;34mmuan[00m             [00;34mtianduo[00m           [00;34myangyu.xcf[00m          [00;34mzhuangyuan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdezhi[00m            [00;34mjinyuan[00m            [00;34mmuchan.dj[00m        [00;34mtianfeng[00m          [00;34myangzheng[00m           [00;34mzhudi[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdiaoliang[00m        [00;34mjinzhao.gy[00m         [00;34mmue.DEL[00m          [00;34mtianguan.dgb[00m      [00;34myangzhu[00m             [00;34mzhuge.zzy[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdieyan[00m           [00;34mjitao.lss[00m          [00;34mmugong.zjq[00m       [00;34mtianhu[00m            [00;34myangzhuoluo.pt[00m      [00;34mzhujun[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdilin[00m            [00;34mjiufeng[00m            [00;34mmulan.ljn[00m        [00;34mtianhua[00m           [00;34myanhui.tk[00m           [00;34mzhukun[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdilong[00m           [00;34mjiuhe.cby[00m          [00;34mmulao[00m            [00;34mtianjin.lp[00m        [00;34myanli.zjy[00m           [00;34mzhuling[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdilu.kxq[00m         [00;34mjiuming.pky[00m        [00;34mmuli.wjs[00m         [00;34mtianjin.zw[00m        [00;34myanran.hfs[00m          [00;34mzhuliu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdingan[00m           [00;34mjiumu[00m              [00;34mmuming.zqf[00m       [00;34mtianlin.pj[00m        [00;34myanricheng.tw[00m       [00;34mzhulong.pz[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdingjian[00m         [00;34mjiuren[00m             [00;34mmuqian.chr[00m       [00;34mtianming.xm[00m       [00;34myansheng[00m            [00;34mzhuocheng.yb[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdingqiu[00m          [00;34mjiuxi[00m              [00;34mmusa.ll[00m          [00;34mtianqing[00m          [00;34myanxiu[00m              [00;34mzhuofan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdingyuan[00m         [00;34mjiuxian.tjo[00m        [00;34mmusang[00m           [00;34mtianrong[00m          [00;34myanyuan.qzs[00m         [00;34mzhuoluo[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdiqing[00m           [00;34mjiuyou[00m             [00;34mmushuang[00m         [00;34mtianshi.lj[00m        [00;34myanzhuang[00m           [00;34mzhuting[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdiyan[00m            [00;34mjiwan[00m              [00;34mmutang.lg[00m        [00;34mtianshui.mjj[00m      [00;34myaochen.ww[00m          [00;34mzhuweng.yzf[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdongbai[00m          [00;34mjiwei.wyl[00m          [00;34mmutian.yxy[00m       [00;34mtiansong[00m          [00;34myaofang.zjl[00m         [00;34mzhuxiaojie.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdongkai.zmj[00m      [00;34mjiyan[00m              [00;34mmutong.zkq[00m       [00;34mtiansou[00m           [00;34myaoguang[00m            [00;34mzhuxu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdongliang.zhao[00m   [00;34mjiye[00m               [00;34mmysql[00m            [00;34mtianwu.sch[00m        [00;34myaomeng[00m             [00;34mzhuxudong.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdongliu[00m          [00;34mjiyuan[00m             [00;34mnanba.lc[00m         [00;34mtianwu.zzw[00m        [00;34myaoshun[00m             [00;34mzhuyong.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdongxuan.lb[00m      [00;34mjiyue.pt[00m           [00;34mnandie.jjy[00m       [00;34mtianxiao[00m          [00;34myefeng.zy[00m           [00;34mzhuyou[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mduanfei[00m          [00;34mjiyun[00m              [00;34mnanjiang.jx[00m      [00;34mtianxin.clj[00m       [00;34myehu[00m                [00;34mzhuyun.lkl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mduanxian[00m         [00;34mjiyun.xsm[00m          [00;34mnanxian.zj[00m       [00;34mtianxin.xjm[00m       [00;34myejunwei.tw[00m         [00;34mzhuzhuang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mduanyu[00m           [00;34mjizha.wyj[00m          [00;34mnanxiao.cnn[00m      [00;34mtianxu.xx[00m         [00;34myekai[00m               [00;34mziang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mducheng[00m          [00;34mjuehai.gy[00m          [00;34mnayan[00m            [00;34mtianxu.xxf.DEL[00m    [00;34myewan.cc[00m            [00;34mzian.zw[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mdukun[00m            [00;34mjueming.hy[00m         [00;34mnianbing.hbt[00m     [00;34mtianyao.myc[00m       [00;34myewang[00m              [00;34mzicheng.lj[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mduling.abc[00m       [00;34mjuexing[00m            [00;34mnianlu.fdx[00m       [00;34mtianye[00m            [00;34myewenchen.pt[00m        [00;34mzicheng.zh[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mduolong[00m          [00;34mjunda[00m              [00;34mniepeng.DEL[00m      [00;34mtianyi[00m            [00;34myexiang.ych[00m         [00;34mzichen.zy[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mduxing[00m           [00;34mjunhe[00m              [00;34mningci.wkl[00m       [00;34mtianyu[00m            [00;34myeyanjie.pt[00m         [00;34mzichuan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mduxu[00m             [00;34mjunmu.wj[00m           [00;34mningxiang.wf[00m     [00;34mtiaozi[00m            [00;34myezhong.hsf[00m         [00;34mzifang.dyl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34menji.lj[00m          [00;34mjunshan[00m            [00;34mningzhi[00m          [00;34mtiechou[00m           [00;34myichen.lyh[00m          [00;34mzifeng[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanda[00m            [00;34mjunting.hl[00m         [00;34mniwan[00m            [00;34mtiegai.gww[00m        [00;34myichi[00m               [00;34mzijia[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfangji.hcm[00m       [00;34mjunxian[00m            [00;34mops[00m              [00;34mtiehong.clb[00m       [00;34myifan[00m               [00;34mzijiang.jl[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfangjun.sfj[00m      [00;34mjunyan.hj[00m          [00;34mpangdu[00m           [00;34mtielun[00m            [00;34myifei.zm[00m            [00;34mziju[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfangliang[00m        [00;34mjunyu[00m              [00;34mpangui[00m           [00;34mtieqiang[00m          [00;34myihui[00m               [00;34mzileng.tp[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanglie.wck[00m      [00;34mjunzhuo[00m            [00;34mpanhuiquan.tw[00m    [00;34mtiesheng[00m          [00;34myijia[00m               [00;34mziming[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfangming[00m         [00;34mjuque.gxl[00m          [00;34mpanlimin.pt.DEL[00m  [00;34mtiewei.hzl[00m        [00;34myijiang[00m             [00;34mzimu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfangweng[00m         [00;34mjushi[00m              [00;34mpeien.htg[00m        [00;34mtiexin[00m            [00;34myike[00m                [00;34mzipeng[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfangzhu[00m          [00;34mjuxin.zj[00m           [00;34mpeihang[00m          [00;34mtieyi.lq[00m          [00;34myinchong[00m            [00;34mzirou[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanhua[00m           [00;34mjuying[00m             [00;34mpengchun[00m         [00;34mtieyi.qlr[00m         [00;34myinfei[00m              [00;34mzishang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanshen[00m          [00;34mjuyuan[00m             [00;34mpengfei.zhang[00m    [00;34mtingbai[00m           [00;34myinfeng.zwx[00m         [00;34mzituan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanyaguang.pt[00m    [00;34mjuzheng.ww[00m         [00;34mpianqian.gc[00m      [00;34mtingbao.chf[00m       [00;34myingjia.gyj[00m         [00;34mzixiang[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanye[00m            [00;34mkaisha[00m             [00;34mpiaoling[00m         [00;34mtongguan.yxl[00m      [00;34myingmu[00m              [00;34mzixin.zlf[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanying[00m          [00;34mkaishan[00m            [00;34mpiaoxue[00m          [00;34mtonglin[00m           [00;34myingqi[00m              [00;34mziyue.yhh[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanyi.zwb[00m        [00;34mkaitai.zj[00m          [00;34mpingan.zy[00m        [00;34mtonglin.pt[00m        [00;34myingquan.wang[00m       [00;34mzongdai[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanyu[00m            [00;34mkangbo[00m             [00;34mpingwei[00m          [00;34mtongxuan[00m          [00;34myingxian[00m            [00;34mzongdan.ysfj[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfanzhong[00m         [00;34mkangmin[00m            [00;34mpomo[00m             [00;34mtongxuan.bzx[00m      [00;34myingxuan.wpp[00m        [00;34mzongliu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfeichen.zf[00m       [00;34mkangtian[00m           [00;34mpoxiao.gj[00m        [00;34mtoutian.taohua[00m    [00;34myingyang[00m            [00;34mzongping[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfeidu[00m            [00;34mkebinghui.hitao[00m    [00;34mpuguang[00m          [00;34mtristan.luom[00m      [00;34myingyuan.lyq[00m        [00;34mzongqian[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfeihu[00m            [00;34mkongjian[00m           [00;34mpuhong.zh[00m        [00;34mtuhai[00m             [00;34myingyuan.ydh[00m        [00;34mzongwu.hxd[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfeijing.cjs[00m      [00;34mkongshi.lq[00m         [00;34mpujian[00m           [00;34mtuhu[00m              [00;34myinming.cy[00m          [00;34mzongzheng[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfeiwen[00m           [00;34mkongwang[00m           [00;34mpukong.wjm[00m       [00;34mtuohu.hs[00m          [00;34myinnong[00m             [00;34mzoucen.pt[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfeixun.dxf[00m       [00;34mkongwu[00m             [00;34mpuyang[00m           [00;34mtuzhen[00m            [00;34myinpin[00m              [00;34mzuishan[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfeiyao[00m           [00;34mkongxuan.zlj[00m       [00;34mpuyuan.wlh.DEL[00m   [00;34mwali.rcd[00m          [00;34myinqiao[00m             [00;34mzunyuan.jy[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfeiying.gh[00m       [00;34mkongyue.cyt[00m        [00;34mpuzhi[00m            [00;34mwancheng[00m          [00;34myinzhen.lj[00m          [00;34mzuozhu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfengba[00m           [00;34mkongzhi[00m            [00;34mqiandingding.pt[00m  [00;34mwanda[00m             [00;34myishan[00m              [00;34mzuyu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfengchi[00m          [00;34mkuangyin[00m           [00;34mqianer.lq[00m        [00;34mwanfei.zbq[00m        [00;34myisheng.taohua[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfengfu[00m           [00;34mkubai.lzw[00m          [00;34mqianfeng.py[00m      [00;34mwangjunsen.pt[00m     [00;34myisu[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfenghan[00m          [00;34mkuiba.wsj[00m          [00;34mqianju[00m           [00;34mwangrui[00m           [00;34myitong[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00;34mfenghao[00m          [00;34mkuier[00m              [00;34mqianjue.sj[00m       [00;34mwangtuo.pt[00m        [00;34myixia.hbn[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[m
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:/home
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+c
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+c
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+d
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+d
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:~
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+l
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+l
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+s
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00m[00;32mbad.log[00m  [00;34mbin[00m  [00;34m_del_[00m  [00;34mtrans[00m  [00mvimrc[00m  [00;34mwork[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[m
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:~
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+c
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+c
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+l
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+l
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+e
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+e
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+a
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+a
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+r
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+r
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[H[2J
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:~
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+l
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+l
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+s
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00m[00;32mbad.log[00m  [00;34mbin[00m  [00;34m_del_[00m  [00;34mtrans[00m  [00mvimrc[00m  [00;34mwork[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[m
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:~
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+l
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+l
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+s
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[00m[00;32mbad.log[00m  [00;34mbin[00m  [00;34m_del_[00m  [00;34mtrans[00m  [00mvimrc[00m  [00;34mwork[00m
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[m
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:~
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+s
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+u
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+u
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+d
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+d
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+o
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+o
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+ 
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+l
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+l
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+s
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+ 
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+/
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+/
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+h
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+h
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+o
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+o
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+me/
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+r
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+r
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+p
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+p
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[K
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[K
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+Display all 1490 possibilities? (y or n)
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+n
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ sudo ls /home/
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+o
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+o
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+p
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+p
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+s
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+/
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+r
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+r
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+p
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+p
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+l
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+l
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+/
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+/
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[K
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+Password: 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+w
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+w
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+@
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+i
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+i
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+p
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+$
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+@
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+#
+xxxxxxxxxxxx
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+aidi.ad		 feijing.cjs	jingjing	 luoxi		shikun	       xiaocheng      yuanji
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+aobing.cdq	 fengfu		jingwei.ljw	 mengfei	shili.lzy      xiaodu	      yuanmu
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+aoguang.ck	 fengshen	jingyuan.xhb	 mengka.hyy	shitian.swl    xiaofeng.xb    yuanqiao
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+baifei		 fuying.yz	jiufeng		 menglang	shixuan        xiaohong.yjh   yuanyue.hyj
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+baisheng	 ganyu.hfl	jiuhe.cby	 minyan		shouque        xiaoteng.xsj   yundai
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+baizai.qex	 gaoshuai.pt	jiuming.pky	 minyi		shuihan        xiaoxian.zzy   yundian.dsb
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+baizhuo		 gaoyan		junhe		 mofan.cjj	shujian        xiaozuo	      yuntian
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+baoniu		 gaoyang.zyh	junxian		 mowen.wf	shutong        xinchang.jl    yunyuan.zhangyy
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+beidu		 geer		kaisha		 muchan.dj	songhong.ljy   xingchi	      yushu.zkk
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+bifu		 gongchong.hh	kebinghui.hitao  musang		sunhua	       xingheng.yxc   yutian.xb
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+bingyi.wz	 gongjin	kongjian	 mutang.lg	supu	       xinghun	      zaixing
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+bonan.zj	 gongtai.yhl	kongzhi		 nayan		suzhen	       xingkui.lxg    zhangba
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+bosong.ly	 gongtao.luogt	kubai.lzw	 ningci.wkl	suzhe.okr      xinshi	      zhanggong
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+boyu.mt		 guangming.lgm	kuier		 peihang	taiqing        xiyang.fyl     zhangxiaocheng.pt
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+bucui		 guangquan.ljy	kuotai		 puguang	takong	       xuanbei	      zhangxin.pt
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+buju		 guili.ll	langkun.zyf	 qiaoyin.dzh	tianlin.pj     xuanji	      zhangxun
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+buping		 guizhong.ygy	lanyin.smz	 qihao		tianming.xm    xuanran	      zhaowen.nlk
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+caiya.lww	 guzhong	latu.czx	 qingming.lxj	tiansou        xuanruo.zsr    zhenfei
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+cangqing.wns	 hanfei.js	lehou		 qingping	tianwu.sch     yangge	      zhengfeng
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+chaoming	 hanjun.jcc	leibiao		 qinlong	tieyi.lq       yanglian.wl    zhengliang.zwh
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+chuansheng	 hantang.cj	leiwen.zh	 qiudi		tingbai        yanli.zjy      zhenglong.zz
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+chuyu		 hanyu.lwj	lemie		 qizhu		tonglin.pt     yansheng       zhiqi
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+dahong		 hegen		lianhua		 quli		wali.rcd       yehu	      zhixing
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+daoan		 hongchuan	linfeng.sjn	 randeng	wangjunsen.pt  yexiang.ych    zhongming
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+daochuan.pz	 hongmeng	lingqiu		 renjun		wangrui        yezhong.hsf    zhongxiang.xw
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+daoxin.lj	 huanbo		lingzun.cyb	 root		weinianhua.pt  yifan	      zhoutong
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+daren		 huangjiaqi.pt	linrui.lql	 ruonan.gxx	weique.lqf     yifei.zm       zhuge.zzy
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+datong		 huijue		liuliang	 sanxiao	wenhe	       yijia	      zhuocheng.yb
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+dawu		 huiru		liuru		 shanda		wenlei.wwx     yinchong       zhuzhuang
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+denghaichuan.pt  huiyan.jhf	liuxibing.hitao  shanxiang.yxy	wuchen	       yinfei	      ziang
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+dilu.kxq	 jiabiao.pt	liuxun		 shaoan.wsz	wuhua	       yingquan.wang  zipeng
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+diyan		 jianglang	liuyun		 shaokun	wuhui.zhuwh    yitong	      zitong
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+dongkai.zmj	 jianhao	liyiting.pt	 shaoyao	wuxin.sn       yixia.hbn      zongdai
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+duanfei		 jiansu		longfeng	 shenglan	xiancheng      yixiao.wxw     zuozhu
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+duanyu		 jiaoyi		lufeng.fx	 shengtong	xiangdan.ly    yizhu.llf
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+duling.abc	 jinbao		luohai.hjf	 shihao		xiangyan       youlong
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+fanda		 jingguang.hm	luohan		 shikai.chj	xiangyang      yuanba.yl
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:~
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+sudo ls /home/ops/rpl
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+/
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+/
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+c
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+c
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+a
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+a
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+i
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+i
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+y
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+y
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+a
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+a
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+.
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+.
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+l
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+l
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+w
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+w
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+w
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+w
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.110027.pts-10	20110713.164015.pts-10	20110715.175336.pts-1	20110721.090429.pts-2	20110722.174419.pts-33
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.110145.pts-10	20110713.170434.pts-13	20110715.182322.pts-0	20110721.091434.pts-11	20110722.175947.pts-2
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.112537.pts-15	20110713.172019.pts-4	20110715.190354.pts-4	20110721.093305.pts-13	20110722.183307.pts-2
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.114906.pts-11	20110713.172541.pts-14	20110715.193907.pts-7	20110721.100139.pts-21	20110722.191335.pts-2
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.141148.pts-11	20110713.173711.pts-0	20110715.201023.pts-3	20110721.110659.pts-34	20110722.194015.pts-4
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.144124.pts-13	20110713.173739.pts-0	20110718.090301.pts-0	20110721.120801.pts-1	20110722.195033.pts-1
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.150307.pts-18	20110713.174924.pts-0	20110718.090502.pts-0	20110721.124645.pts-13	20110722.203203.pts-3
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.150922.pts-26	20110713.181941.pts-0	20110718.102953.pts-22	20110721.134325.pts-13	20110725.084318.pts-1
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.173756.pts-5	20110713.190023.pts-0	20110718.114347.pts-20	20110721.140028.pts-17	20110725.091411.pts-2
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110708.193502.pts-0	20110713.190754.pts-2	20110718.114806.pts-24	20110721.140956.pts-18	20110725.092820.pts-15
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.084932.pts-0	20110713.195218.pts-1	20110718.131331.pts-3	20110721.143818.pts-1	20110725.093513.pts-17
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.092715.pts-3	20110713.204437.pts-1	20110718.134107.pts-11	20110721.145925.pts-23	20110725.094245.pts-20
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.100014.pts-4	20110714.090412.pts-1	20110718.142308.pts-31	20110721.151213.pts-29	20110725.094531.pts-22
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.105323.pts-13	20110714.091613.pts-2	20110718.145424.pts-10	20110721.153834.pts-11	20110725.110225.pts-32
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.112118.pts-15	20110714.093337.pts-5	20110718.160408.pts-5	20110721.154638.pts-14	20110725.202558.pts-2
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.113348.pts-2	20110714.100605.pts-5	20110718.160858.pts-33	20110721.160003.pts-4	20110725.212015.pts-2
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.113433.pts-2	20110714.103930.pts-15	20110718.163140.pts-29	20110721.161715.pts-33	20110726.103834.pts-24
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.163248.pts-10	20110714.112458.pts-1	20110718.191011.pts-4	20110721.163434.pts-18	20110726.113107.pts-38
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.170615.pts-3	20110714.113600.pts-17	20110718.195325.pts-20	20110721.163617.pts-28	20110726.120546.pts-7
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.171217.pts-0	20110714.114103.pts-18	20110719.085243.pts-3	20110721.164242.pts-31	20110726.121907.pts-15
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.173953.pts-13	20110714.120948.pts-18	20110719.092113.pts-8	20110721.165421.pts-17	20110726.123002.pts-18
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.174217.pts-13	20110714.124206.pts-18	20110719.115734.pts-3	20110721.171103.pts-32	20110727.181548.pts-8
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110711.175218.pts-7	20110714.134008.pts-10	20110719.132834.pts-3	20110721.172559.pts-23	20110728.115112.pts-1
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.085612.pts-1	20110714.134525.pts-0	20110719.134301.pts-31	20110721.172948.pts-23	20110728.145144.pts-13
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.092717.pts-3	20110714.135256.pts-20	20110719.163255.pts-34	20110721.175504.pts-11	20110728.150110.pts-30
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.092831.pts-3	20110714.140344.pts-32	20110719.184754.pts-13	20110721.180602.pts-29	20110728.151353.pts-29
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.102157.pts-13	20110714.141030.pts-32	20110719.201016.pts-4	20110721.181307.pts-16	20110728.154313.pts-2
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.102942.pts-7	20110714.145032.pts-11	20110720.090517.pts-13	20110721.181419.pts-23	20110728.155809.pts-2
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.103046.pts-7	20110714.155147.pts-0	20110720.094005.pts-23	20110721.182232.pts-4	20110728.211403.pts-1
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.112244.pts-24	20110714.162121.pts-0	20110720.101614.pts-30	20110722.091602.pts-1	20110729.111220.pts-2
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.112741.pts-24	20110714.164551.pts-0	20110720.104838.pts-30	20110722.092400.pts-2	20110729.111316.pts-26
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.115724.pts-3	20110714.165048.pts-0	20110720.112555.pts-31	20110722.092645.pts-8	20110729.161217.pts-26
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.120007.pts-3	20110714.165525.pts-32	20110720.113754.pts-13	20110722.092734.pts-11	20110729.211028.pts-1
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.120532.pts-3	20110714.173247.pts-32	20110720.120549.pts-20	20110722.094508.pts-13	20110801.090342.pts-0
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.122001.pts-3	20110714.175411.pts-32	20110720.125238.pts-21	20110722.100648.pts-14	20110801.174949.pts-5
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.123601.pts-3	20110714.185728.pts-0	20110720.130450.pts-21	20110722.101820.pts-16	20110801.175300.pts-13
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.135004.pts-2	20110714.185845.pts-0	20110720.140537.pts-13	20110722.102351.pts-17	20110804.195910.pts-22
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.140003.pts-4	20110714.202214.pts-7	20110720.141345.pts-38	20110722.104137.pts-18	20110805.173525.pts-44
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.150056.pts-14	20110714.202542.pts-7	20110720.143843.pts-43	20110722.111709.pts-25	20110815.175159.pts-15
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.152030.pts-14	20110715.095241.pts-1	20110720.153211.pts-21	20110722.113126.pts-1	20110815.181505.pts-30
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.152555.pts-14	20110715.101727.pts-3	20110720.154013.pts-27	20110722.114322.pts-34	20110815.183749.pts-21
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.153455.pts-14	20110715.102655.pts-5	20110720.162709.pts-14	20110722.114932.pts-35	20110815.185115.pts-22
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.170508.pts-5	20110715.102716.pts-5	20110720.165519.pts-29	20110722.120621.pts-13	20110830.085048.pts-7
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.172049.pts-5	20110715.103056.pts-13	20110720.171023.pts-29	20110722.140128.pts-1	20110830.085057.pts-13
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.182226.pts-0	20110715.103349.pts-15	20110720.172557.pts-35	20110722.141316.pts-1	20110831.172348.pts-26
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.184940.pts-2	20110715.111343.pts-26	20110720.173210.pts-37	20110722.161522.pts-27	20110831.172731.pts-26
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.193800.pts-5	20110715.140300.pts-3	20110720.173348.pts-39	20110722.161716.pts-32	20110901.155815.pts-31
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110712.195707.pts-5	20110715.142250.pts-15	20110720.175116.pts-21	20110722.161947.pts-34	20110907.174409.pts-25
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110713.122149.pts-2	20110715.143709.pts-34	20110720.190547.pts-2	20110722.162558.pts-20	20110907.174835.pts-25
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110713.150147.pts-8	20110715.150217.pts-36	20110720.200119.pts-14	20110722.162937.pts-36	20110907.174915.pts-25
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110713.152705.pts-8	20110715.155330.pts-41	20110720.201337.pts-4	20110722.164658.pts-36
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110713.153520.pts-10	20110715.162843.pts-1	20110720.202635.pts-11	20110722.164809.pts-40
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+20110713.161700.pts-10	20110715.162935.pts-1	20110720.203722.pts-13	20110722.173853.pts-29
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+]0;caiya.lww@login1:~
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+hello $ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+s
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+s
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+u
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+u
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+d
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+d
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+o
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+o
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+ 
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+c
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+c
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+p
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+p
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+ 
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+ls /home/ops/rpl/caiya.lww
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[1P /home/ops/rpl/caiya.lww[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[1P /home/ops/rpl/caiya.lww[C[C[C[C[C[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[1P/home/ops/rpl/caiya.lww[C[C[C[C[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+ 
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C /home/ops/rpl/caiya.lww[C[C[C[C[C[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+c
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+c /home/ops/rpl/caiya.lww[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+p
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+p /home/ops/rpl/caiya.lww[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+ 
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C /home/ops/rpl/caiya.lww[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[1P/home/ops/rpl/caiya.lww[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+ 
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+ 
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[K
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+/
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+/
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+2
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+2
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+0
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+0
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+1
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+1
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+1
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+1
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+0
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+0
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+9
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+9
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+0
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+0
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+7
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+7
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+.
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+.
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+1
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+1
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+4
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+4
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+[K
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+7
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+7
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+4
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+4
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+9
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+9
+............
+
+case EVT_RD: start
+
+[TTY_IN]
+xxxxxxxxxxxx
+	
+xxxxxxxxxxxx
+
+case EVT_WRITE
+
+[TTY_OUT]
+............
+
+............
+

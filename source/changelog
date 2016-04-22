@@ -1,0 +1,16 @@
+
+>>> is logfile dumped already? save offset information of logfiles
+
+
+#=================================================================
+# log
+#=================================================================
+>>> rl_instream.tmp not deleted in some case... TODO: check
+
+---  use malloc for (char *)pgbuf instead of using pgbuf[MAXBUF]
+
+>>> char(') makes pgsql insert faild: 
+     insert ('xxx'xxx', ' '...)
+                 ^----error
+
+---  $PGESC$<any strings>$PGESC$ 
